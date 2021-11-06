@@ -1,0 +1,2 @@
+-Use arrow keys to move the polygon
+-Click inside the polygon to fill/unfill the polygon
